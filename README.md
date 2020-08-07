@@ -1,4 +1,4 @@
-# Module Project: Component Lifecycle Methods - React Github User Card
+<!-- # Module Project: Component Lifecycle Methods - React Github User Card
 
 This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored lifecycle methods in class components. In your project you will demonstrate proficiency of these concepts by recreating the Github User Card project, but as a React application this time.
 
@@ -88,4 +88,4 @@ After finishing your required elements, you can push your work further. These go
 ## Submission Format
 
 * [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
-* [ ] Fill out your module retrospective form [here](https://forms.lambdaschool.com/module-retrospective) with a link to your PR
+* [ ] Fill out your module retrospective form [here](https://forms.lambdaschool.com/module-retrospective) with a link to your PR -->
