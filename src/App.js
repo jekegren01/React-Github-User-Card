@@ -4,7 +4,7 @@ import './App.css';
 import Usercard from './components/usercard';
 import Loader from "./components/loader";
 
-const API_URL = "https://api.github.com/users/nati-alvarez";
+const API_URL = "https://api.github.com/users/jekegren01";
 
 class App extends React.Component {
   constructor(){
